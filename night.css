@@ -1,0 +1,19 @@
+body {
+	background-color: black;
+	color: white;
+}
+.table {
+	color: white;
+}
+.vlad {
+		display: none;
+
+}
+.vlad-n {
+		display: inline-flex;
+
+}/*
+.vlad-wrap {
+	display: inline;
+	background-image: url('vlad_n.jpg');
+}*/
